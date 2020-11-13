@@ -1,0 +1,10 @@
+F:\repos\VttConvertSrt\VttConvertSrt\VttConvertSrt\bin\Debug\VttConvertSrt.exe.config
+F:\repos\VttConvertSrt\VttConvertSrt\VttConvertSrt\bin\Debug\VttConvertSrt.exe
+F:\repos\VttConvertSrt\VttConvertSrt\VttConvertSrt\bin\Debug\VttConvertSrt.pdb
+F:\repos\VttConvertSrt\VttConvertSrt\VttConvertSrt\obj\Debug\VttConvertSrt.csprojAssemblyReference.cache
+F:\repos\VttConvertSrt\VttConvertSrt\VttConvertSrt\obj\Debug\VttConvertSrt.Form1.resources
+F:\repos\VttConvertSrt\VttConvertSrt\VttConvertSrt\obj\Debug\VttConvertSrt.Properties.Resources.resources
+F:\repos\VttConvertSrt\VttConvertSrt\VttConvertSrt\obj\Debug\VttConvertSrt.csproj.GenerateResource.cache
+F:\repos\VttConvertSrt\VttConvertSrt\VttConvertSrt\obj\Debug\VttConvertSrt.csproj.CoreCompileInputs.cache
+F:\repos\VttConvertSrt\VttConvertSrt\VttConvertSrt\obj\Debug\VttConvertSrt.exe
+F:\repos\VttConvertSrt\VttConvertSrt\VttConvertSrt\obj\Debug\VttConvertSrt.pdb
