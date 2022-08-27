@@ -15,7 +15,7 @@ namespace VttConvertSrt
     public partial class Form1 : Form
     {
         private string[] fileNames;//所有选定文件文件名(包含文件路径)
-        private string vttPrefix = "WEBVTT\n";// vtt前缀有多种格式，youtube需要自行修改
+        private string vttPrefix = "WEBVTT" + System.Environment.NewLine;// vtt前缀有多种格式，youtube需要自行修改
 
         public Form1()
         {
